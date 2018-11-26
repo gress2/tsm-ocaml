@@ -1,0 +1,4 @@
+(executable
+  (name generic_game_mcts)
+  (libraries lib))
+
